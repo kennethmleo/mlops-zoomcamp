@@ -1,0 +1,3 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "hello_world"}, "timestamp": 1761733531, "user": 1}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "nyc_taxi_training"}, "timestamp": 1761733949, "user": 1}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "duration_prediction_pipeline"}, "timestamp": 1761734099, "user": 1}
