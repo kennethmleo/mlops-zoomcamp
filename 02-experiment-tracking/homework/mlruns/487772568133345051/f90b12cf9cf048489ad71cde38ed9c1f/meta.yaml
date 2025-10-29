@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kennethleo/Documents/GitHub/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/487772568133345051/f90b12cf9cf048489ad71cde38ed9c1f/artifacts
+end_time: 1761716148812
+entry_point_name: ''
+experiment_id: '487772568133345051'
+lifecycle_stage: active
+run_id: f90b12cf9cf048489ad71cde38ed9c1f
+run_name: suave-loon-287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761716134003
+status: 3
+tags: []
+user_id: kennethleo

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/kennethleo/Documents/GitHub/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/models/m-3c8c42589f254d98876c74e88756c9fe/artifacts
+creation_timestamp: 1761715988945
+experiment_id: '0'
+last_updated_timestamp: 1761715991521
+model_id: m-3c8c42589f254d98876c74e88756c9fe
+model_type: null
+name: model
+source_run_id: dd475afbd7184f0e8a109e95aa213105
+status: 2
+status_message: null

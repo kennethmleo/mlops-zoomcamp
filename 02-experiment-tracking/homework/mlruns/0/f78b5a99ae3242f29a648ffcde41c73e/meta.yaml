@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kennethleo/Documents/GitHub/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/f78b5a99ae3242f29a648ffcde41c73e/artifacts
+end_time: 1761715869946
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f78b5a99ae3242f29a648ffcde41c73e
+run_name: invincible-shark-787
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761715858725
+status: 3
+tags: []
+user_id: kennethleo
