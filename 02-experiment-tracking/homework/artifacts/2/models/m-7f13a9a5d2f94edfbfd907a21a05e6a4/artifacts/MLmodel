@@ -1,0 +1,22 @@
+artifact_path: /Users/kennethleo/Documents/GitHub/mlops-zoomcamp/02-experiment-tracking/homework/artifacts/2/models/m-7f13a9a5d2f94edfbfd907a21a05e6a4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.24
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-7f13a9a5d2f94edfbfd907a21a05e6a4
+model_size_bytes: 5849790
+model_uuid: m-7f13a9a5d2f94edfbfd907a21a05e6a4
+prompts: null
+run_id: 54994e4a495e4df1be3e3c065f4cda3a
+utc_time_created: '2025-10-29 05:48:30.414012'
