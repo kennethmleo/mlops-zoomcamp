@@ -1,0 +1,22 @@
+artifact_path: /Users/kennethleo/Documents/GitHub/mlops-zoomcamp/04-deployment/web-service-mlflow/artifacts/1/models/m-d2674c1cc36e48f391d8ba3dfef8ebda/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.24
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-d2674c1cc36e48f391d8ba3dfef8ebda
+model_size_bytes: 18787257
+model_uuid: m-d2674c1cc36e48f391d8ba3dfef8ebda
+prompts: null
+run_id: f4e1e91792cf42429d5ec1acf0af1a10
+utc_time_created: '2025-10-30 07:58:28.231836'
