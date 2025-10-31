@@ -1,0 +1,3 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "batch_scoring"}, "timestamp": 1761841301, "user": 1}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "batch_scoring_using_mage"}, "timestamp": 1761841416, "user": 1}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "batch_using_mage"}, "timestamp": 1761841444, "user": 1}

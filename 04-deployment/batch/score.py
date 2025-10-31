@@ -90,7 +90,7 @@ def run():
     input_file = f'https://d37ci6vzurychx.cloudfront.net/trip-data/{taxi_type}_tripdata_{year:04d}-{month:02d}.parquet'
     output_file = f'output/{taxi_type}/{year:04d}-{month:02d}.parquet'
 
-    MLFLOW_TRACKING_URI = 'http://127.0.0.1:5000'
+    MLFLOW_TRACKING_URI = 'http://127.0.0.1:5050'
     apply_model(
         input_file=input_file, 
         run_id=run_id, 
